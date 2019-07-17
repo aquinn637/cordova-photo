@@ -1,0 +1,4 @@
+#Wed Jul 17 10:55:51 BST 2019
+base.0=C\:\\Users\\aubrey\\Source\\Repos\\picture-sample\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
